@@ -2,5 +2,4 @@ spring:
   application:
     name: catalog-service-DEV
 server:
-  port: 8081
-
+  port: 8083
